@@ -3,7 +3,7 @@ This repository contains code to find path between start position and goal posit
 
 The action set for this project is: 
 
-<img src = "https://github.com/AbhijitMahalle/dijkstra/blob/master/map/action_set.PNG">  
+<img src = "https://github.com/ParamDave5/Dijkstra-Algorithm/blob/1b22c3209f9233e1e97aed392e2567bb9d67e8a0/map/action_set.PNG">  
 
 ## Required libraries 
 1. NumPy
@@ -17,7 +17,7 @@ python dijkstra.py
 Video output "dijkstra" will be generated in the result folder.
 
 ### Node exploration
-![](https://github.com/AbhijitMahalle/dijkstra/blob/master/gif/dijkstra.gif)
+![](https://github.com/ParamDave5/Dijkstra-Algorithm/blob/1b22c3209f9233e1e97aed392e2567bb9d67e8a0/gif/dijkstra.gif)
 
 ### Generated path
-![](https://github.com/AbhijitMahalle/dijkstra/blob/master/results/path.png)
+![](https://github.com/ParamDave5/Dijkstra-Algorithm/blob/1b22c3209f9233e1e97aed392e2567bb9d67e8a0/results/path.png)
